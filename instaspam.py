@@ -9,7 +9,7 @@ https://tr.wikipedia.org/wiki/GNU_Genel_Kamu_Lisans%C4%B1
 https://www.gnu.org/licenses/quick-guide-gplv3.html
 """
 
-__author__ = "Hichigo TurkHackTeam"
+__author__ = "xBowtie"
 __license__ = "GPLv3"
 __version__ = "2.1.0"
 __status__ = "Geliştiriliyor"
